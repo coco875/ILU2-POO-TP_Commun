@@ -19,9 +19,9 @@ public class BoundaryConnecterClient {
 		String mdp = scanner.next();
 		int numClient = controlConnecterClient.connecterClient(adresseMail, mdp);
 		if (numClient != -1) {
-			System.out.println("Vous êtes connecté");
+			System.out.println("Vous Ãªtes connectÃ©");
 		} else {
-			System.out.println("Votre mail ou votre mot de passe est erroné");
+			System.out.println("Votre mail ou votre mot de passe est erronÃ©");
 		}
 		return numClient;
 	}

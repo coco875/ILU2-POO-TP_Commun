@@ -214,7 +214,7 @@ public class PresentationJFrameCreationClient extends JFrame {
 	}
 
 	public void setPresentationPasswordError() {
-		lblPasswordError.setText("Vous avez saisi deux mots de passe différents");
+		lblPasswordError.setText("Vous avez saisi deux mots de passe diffÃ©rents");
 		lblPasswordErrorInstructions.setText("Merci de les resaisir");
 		passwordField.setText("");
 		passwordFieldConfirmer.setText("");

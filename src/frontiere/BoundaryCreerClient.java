@@ -15,7 +15,7 @@ public class BoundaryCreerClient {
 	public void creerClient() {
 		System.out.println("Nom : ");
 		String nom = scanner.next();
-		System.out.println("Prénom : ");
+		System.out.println("PrÃ©nom : ");
 		String prenom = scanner.next();
 		System.out.println("Adresse mail : ");
 		String adresseMail = scanner.next();

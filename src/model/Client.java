@@ -6,7 +6,7 @@ public class Client {
 	private String adresseMail;
 	private String mdp;
 
-//	A décommenter pour la question6
+//	A dÃ©commenter pour la question6
 //	private Reservation[] reservations = new Reservation[100]; 
 //	private int nbReservation = 0;
 
@@ -25,7 +25,7 @@ public class Client {
 		return mdp.equals(this.mdp);
 	}
 
-//	A décommenter pour la question6
+//	A dÃ©commenter pour la question6
 //	public void ajouterReservation(Reservation reservation) {
 //		this.reservations[nbReservation] = reservation;
 //		nbReservation++;
